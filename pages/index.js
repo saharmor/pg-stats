@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import MaterialTable from "material-table"
 import {Grid} from "@material-ui/core";
 import LinesTable from "../LinesTable";
 
